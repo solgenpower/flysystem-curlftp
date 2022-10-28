@@ -1,5 +1,5 @@
 {
-    "name": "vladimir-yuldashev/flysystem-curlftp",
+    "name": "solgenpower/flysystem-curlftp",
     "description": "Flysystem Adapter for the FTP with cURL implementation",
     "type": "library",
     "license": "MIT",
